@@ -110,7 +110,7 @@ export default function GrainScanApp() {
               </div>
               <div>
                 <h1 className="text-2xl font-bold text-foreground flex items-center gap-2">
-                  GrainScan
+                  Grainulo Scan
                   <Sparkles className="w-5 h-5 text-primary" />
                 </h1>
                 <p className="text-sm text-muted-foreground">Automated Beach Sediment Analysis System</p>
